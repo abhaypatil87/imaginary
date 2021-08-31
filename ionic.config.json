@@ -1,0 +1,8 @@
+{
+  "name": "Imaginary",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "1bfb7ddd"
+}
